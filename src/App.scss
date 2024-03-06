@@ -1,0 +1,14 @@
+@import url("./style/header.scss");
+@import url('./style/navbar.scss');
+@import url("./style/filter.scss");
+@import url("./style/category.scss");
+
+.home
+{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 1200px;
+  margin: 0 auto;
+  
+}

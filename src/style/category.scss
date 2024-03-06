@@ -1,0 +1,40 @@
+.title-btn
+{
+    display: flex;
+    width: auto;
+    justify-content: space-between;
+    margin: 10px;
+    gap: 500px;
+    align-items: center;
+    Button{
+        width: 60px;
+        height: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       font-size: 12px;
+       background-color: blue;
+       color: white;
+       
+       
+    }
+}
+
+.list-item
+{
+    width: 100%;
+    display: flex;
+    height: auto;
+    background-color: #424147;
+    justify-content: start;
+    color: white;    
+    font-weight: bold;
+    font-size: 30px;
+    
+    ul{
+        display: flex;
+        flex-direction: column;
+        
+    }
+   
+}
